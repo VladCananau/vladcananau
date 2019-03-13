@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+bannerimage: /assets/img/santiago.jpg
 ---
-<img class="img-banner" src="/assets/img/banner1.jpg">
