@@ -25,6 +25,8 @@ url: "https://vladcananau.github.io" # the base hostname & protocol for your sit
 linkedin_username: vladcananau
 github_username:  vladcananau
 
+show_excerpts: true
+
 # Build settings
 markdown: kramdown
 theme: minima
