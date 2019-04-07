@@ -16,10 +16,9 @@
 title: Vlad Ionuț Cananău
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Vlad Ionuț Cananău's site and blog (don't worry, I only talk about myself
-  in the 3rd person to internet search engines).
+  This is Vlad Ionuț Cananău's site and blog.
 credits: >- 
-  This site is built with the awesome Jekyll, Minima and Github Pages   
+  This site is built with the awesome Jekyll, Minima and Github Pages. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vladcananau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: vladcananau

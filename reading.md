@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-bannerimage: /assets/img/santiago.jpg
+bannerimage: /assets/img/beachchairs.jpg
 postscategory: reading
 ---

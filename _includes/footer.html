@@ -7,10 +7,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-          {%- if site.credits -%}
-          <p>{{ site.credits | escape }}</p>
-        {%- endif -%}
-        
+        <p>{{- site.description | escape -}}</p>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -18,7 +15,9 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        {%- if site.credits -%}
+          <p>{{ site.credits | escape }}</p>
+        {%- endif -%}
       </div>
     </div>
 
