@@ -3,7 +3,7 @@ layout: post
 title:  "The odd book review: 'Focus' by Daniel Goleman"
 date:   2019-04-07 07:04:19 +0000
 categories: reading
-excerpt: "Daniel Goleman reviews the different components of what we call 'focus' and makes a strong case that the better our control over it, the better we live and the more we achieve."
+excerpt: "Daniel Goleman reviews the different components of what we call 'focus' and makes the case that the better our control over them, the better we live and the more we achieve."
 ---
 When I came across Daniel Goleman's book while browsing a bookstore's Christmas sale, it gave me pause. 'The hidden driver of Excellence' its subtitle read. I did a quick scan in my mind trying to assess my own focus. At work I was always juggling several things at the same time, in my personal life I was coasting, and in my spare time I kept taking up new activities only to lose interest after some time. Helped all along the way by my trusted smartphone serving me an uninterrupted stream of... interruptions. So, naturally, I bought the book, put it on my reading list and never got around to reading for a couple of years.
 
